@@ -12,4 +12,43 @@ text-align: center;
 p{ font-family: verdana;
 font-size: 20px;
 
+
+}
+
+ul{
+	list-style-type: none;
+	margin: 120;
+	padding" 0;
+}
+
+li{
+	display: inline;
+}
+
+
+li a:hover{
+	background-color: #dddddd;
+}
+
+p{
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: dotted;
+	border-left-style: solid;
+}
+
+ul{ 
+	border-left-style: dotted;
+	border-left-color: green;
+	border-bottom-style: solid;
+	border-bottom-color: green;
+	border-right-style: dotted;
+	border-right-color: purple;
+	border-top-style: solid;
+	border-top-color: purple;	
+	
+}
+
+p{
+	color: purple;
 }
